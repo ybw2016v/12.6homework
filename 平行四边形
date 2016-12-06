@@ -1,0 +1,16 @@
+#include <stdio.h>
+main()
+{
+	int m, n;
+	printf("请输入行列数，中间用逗号隔开。\n");
+	scanf("%d,%d", &m, &n);
+	for (int i = 1; i <= m; i++)
+	{{for (int k=1;k<= i;k++)
+		printf("    ");
+			}
+		for (int j = 1; j <= n; j++)
+		{
+				printf("dog ");}
+		printf("\n");
+	}
+}
