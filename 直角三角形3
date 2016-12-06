@@ -1,0 +1,20 @@
+#include <stdio.h>
+main()
+{
+	int i, m, n;
+	printf("请输入行数。\n");
+	scanf("%d,%d", &m, &n);
+	for (i = 1; i <= m; i++)
+	{
+		{
+			for (int j = 2; j <= i; j++)
+				printf("    ");
+		}
+		{
+			for (int k = 1; k <= m - i + 1; k++)
+				printf("dog ");
+		}
+
+		printf("\n");
+	}
+}
