@@ -1,3 +1,4 @@
+//这是一个小程序。
 #include<stdio.h>
 #include<math.h>
 main()
