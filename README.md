@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# 12月6日计算机作业集
-12.6homework
-=======
 # 12.6homework计算机作业集
-12.6homework开发版
->>>>>>> refs/heads/developing
+
 **************************
 1.part1：循环计算器
 
